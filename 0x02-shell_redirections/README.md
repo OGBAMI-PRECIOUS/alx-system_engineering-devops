@@ -11,3 +11,5 @@ The '9-duplicate_last_line' script that duplicate the last line
 The '10-no_more_js' script that deletes all the regular files not directory with a .js
 The script '11-directories' counts the directories in the current working directories aside it
 The script '12-newest_files' displays the 10 newest files in the current directory
+The script '14-findthatword' displays lines containing pattern 'root' from the file /etc/passwd
+The script '15-countthatword' displays number of lines containing pattern 'bin' in the file /etc/passwd
